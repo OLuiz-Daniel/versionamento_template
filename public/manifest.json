@@ -1,0 +1,25 @@
+{
+  "short_name": "Tabela React",
+  "name": "App de Tabela React Exemplo",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "OIG192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "OIG512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E1E1E",
+  "background_color": "#181818"
+}
